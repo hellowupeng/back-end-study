@@ -2,7 +2,7 @@
 
 # **一：阿里技术一面(基础掌握牢固)**
 
-1. 常用的异常类型?
+1. [常用的异常类型?](https://github.com/hellowupeng/interview/blob/master/java/常用的异常类型.md)
 2. session
 3. java锁
 4. gc原理

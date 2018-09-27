@@ -1,11 +1,5 @@
 # java锁
 
-几种锁？锁分类，基本使用、实现原理？
-
-Synchronized、Lock、ReentrantLock、ReadWriteLock
-
-
-
 ## 一、公平锁、非公平锁
 
 公平锁是指多个线程按照申请锁的顺序来获取锁。

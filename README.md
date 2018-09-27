@@ -4,33 +4,40 @@
 
 1. [常用的异常类型?](https://github.com/hellowupeng/interview/blob/master/java/常用的异常类型.md)
 2. [session](https://github.com/hellowupeng/interview/blob/master/java/session.md)
-3. java锁
-4. gc原理
-5. hashmap
-6. linklist arraylist 区别
-7. aop 原理
-8. 多线程
-9. kafka 原理和容错
-10. spark hadoop 原理
-11. redis 同步机制
-12. classLoader 机制
-13. Http 协议
-14. cookie的限制
-15. 如何设计一个分步式登录系统？
-16. Spring加载过程？
-17. 自己有没有写过类似Spring这样的AOP事务？
-18. spring的加载过程？
-19. atomic 与 volatile的区别？
-20. Thread的 notify()给notifyAll()的区别?
-21. notifiy()是唤醒的那一个线程?
-22. Thread.sleep()唤醒以后是否需要重新竞争？
-23. 单例有多少种写法? 有什么区别? 你常用哪一种单例，为什么用这种？
-24. 问一个Thread.join()相关的问题?
-25. 写一个JAVA死锁的列子?
-26. 如何解决死锁?
-27. GC回收算法,及实现原理?
-28. HashMap数据存储结构? key重复了怎么办? 是如何解决的?
-29. Spring AOP的实现原理，底层用什么实现的？
+3. [java锁](https://github.com/hellowupeng/interview/blob/master/java/java锁.md)
+4. Synchronized实现原理
+5. Synchronized源码分析
+6. ReentrantLock实现原理
+7. ReentrantLock源码分析
+8. ReadWriteLock实现原理
+9. ReadWriteLock源码分析
+10. 自旋锁实现原理
+11. gc原理
+12. hashmap
+13. linklist arraylist 区别
+14. aop 原理
+15. 多线程
+16. kafka 原理和容错
+17. spark hadoop 原理
+18. redis 同步机制
+19. classLoader 机制
+20. Http 协议
+21. cookie的限制
+22. 如何设计一个分步式登录系统？
+23. Spring加载过程？
+24. 自己有没有写过类似Spring这样的AOP事务？
+25. spring的加载过程？
+26. atomic 与 volatile的区别？
+27. Thread的 notify()给notifyAll()的区别?
+28. notifiy()是唤醒的那一个线程?
+29. Thread.sleep()唤醒以后是否需要重新竞争？
+30. 单例有多少种写法? 有什么区别? 你常用哪一种单例，为什么用这种？
+31. 问一个Thread.join()相关的问题?
+32. 写一个JAVA死锁的列子?
+33. 如何解决死锁?
+34. GC回收算法,及实现原理?
+35. HashMap数据存储结构? key重复了怎么办? 是如何解决的?
+36. Spring AOP的实现原理，底层用什么实现的？
 
 ## 二
 

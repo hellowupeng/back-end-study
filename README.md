@@ -6,7 +6,7 @@
 2. [session](https://github.com/hellowupeng/interview/blob/master/java/session.md)
 3. [java锁](https://github.com/hellowupeng/interview/blob/master/java/java锁.md)
 4. [Synchronized实现原理](https://github.com/hellowupeng/interview/blob/master/java/Synchronized实现原理.md)
-5. ReentrantLock实现原理
+5. [ReentrantLock实现原理](https://github.com/hellowupeng/interview/blob/master/java/ReentrantLock实现原理.md)
 6. ReadWriteLock实现原理
 7. 自旋锁实现原理
 8. gc原理

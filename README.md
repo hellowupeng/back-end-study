@@ -8,7 +8,7 @@
 4. [Synchronized实现原理](https://github.com/hellowupeng/interview/blob/master/java/Synchronized实现原理.md)
 5. [ReentrantLock实现原理](https://github.com/hellowupeng/interview/blob/master/java/ReentrantLock实现原理.md)
 6. [ReadWriteLock实现原理](https://github.com/hellowupeng/interview/blob/master/java/ReadWriteLock实现原理.md)
-7. gc原理
+7. [gc原理](https://github.com/hellowupeng/interview/blob/master/java/gc原理.md)
 8. hashmap
 9. linklist arraylist 区别
 10. aop 原理

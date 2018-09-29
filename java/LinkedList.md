@@ -10,15 +10,8 @@ LinkedList类不是线程安全的。
 
 ##### 构造方法
 
-构造一个空列表：
-
 ```java
 public LinkedList()
-```
-
-使用指定集合构造一个列表：
-
-```java
 public LinkedList(Collection<? extends E> c)
 ```
 
@@ -28,7 +21,7 @@ public LinkedList(Collection<? extends E> c)
 
 LinkedList的内部实现是双向链表，每个元素在内存中都是单独存放的，元素之间通过链接连在一起，就像小朋友手拉手一样。
 
-为了表示
+为了表示这种链接关系，在内部定义了一个节点类：
 
 ```java
 private static class Node<E> {
@@ -42,3 +35,15 @@ private static class Node<E> {
     }
 }
 ```
+
+Node表示节点，item指向实际的元素，next指向后一个节点，prev指向前一个节点。
+
+LinkedList内部实例变量：
+
+```java
+transient int size = 0;
+transient Node<E> first;
+transient Node<E> last;
+```
+
+size表示链表长度，默认为0，first指向头节点，last指向尾节点，初始值都为null。

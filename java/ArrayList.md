@@ -76,4 +76,4 @@ public E remove(int index) {
 }
 ```
 
-计算要移动的个数，从index往后的元素都往前移动一位，实际使用System。arraycopy方法移动元素。更新size，同时将最后一个位置设为null。
+计算要移动的个数，从index往后的元素都往前移动一位，实际使用System.arraycopy方法移动元素。更新size，同时将最后一个位置设为null。

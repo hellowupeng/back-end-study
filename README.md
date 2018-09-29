@@ -10,8 +10,8 @@
 6. [ReadWriteLock实现原理](https://github.com/hellowupeng/interview/blob/master/java/ReadWriteLock实现原理.md)
 7. [gc原理](https://github.com/hellowupeng/interview/blob/master/java/gc原理.md)
 8. hashmap
-9. ArrayList
-10. LinkedList
+9. [ArrayList](https://github.com/hellowupeng/interview/blob/master/java/ArrayList.md)
+10. [LinkedList](https://github.com/hellowupeng/interview/blob/master/java/LinkedList.md)
 11. LinkedList, ArrayList 区别
 12. aop 原理
 13. 多线程

@@ -116,7 +116,7 @@
 21. [引擎对比（InnoDB，MyISAM）](https://github.com/hellowupeng/interview/blob/master/db/MySQL引擎对比（InnoDB，MyISAM）.md)
 22. 数据库的锁（行锁，表锁，页级锁，意向锁，读锁，写锁，悲观锁，乐观锁，以及加锁的select sql方式）
 23. 隔离级别，依次解决的问题（脏读、不可重复读、幻读）
-24. 事务的ACID
+24. [事务的ACID](https://github.com/hellowupeng/interview/blob/master/db/事务的ACID.md)
 25. B树、B+树
 26. 优化（explain，慢查询，show profile）
 27. 数据库的范式

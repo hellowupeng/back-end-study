@@ -2,7 +2,31 @@
 
 ArrayList是一个动态数组容器类，也是一个泛型容器。
 
-ArrayList类继承自AbstractList类，
+ArrayList类继承自AbstractList类， 实现了List<E>, RandomAccess, Cloneable, Serializable接口。
+
+## 基本用法
+
+##### 构造函数
+
+使用指定的初始capacity构造一个空列表：
+
+```java
+public ArrayList(int initialCapacity);
+```
+
+构造一个初始capacity为0的空列表：
+
+```java
+public ArrayList();
+```
+
+构造一个包含指定元素集合的列表：
+
+```java
+public ArrayList(Collection<? extends E> c);
+```
+
+##### 
 
 ## 实现原理
 
@@ -16,51 +40,6 @@ private int size;
 内部有一个数组elementData，一般会有一些预留的空间，有一个整数size记录实际的元素个数（java 8）。
 
 各种public方法内部操作的基本都是这个数组和这个整数，elementData会随着实际元素个数的增多而重新分配，size则始终记录实际的元素个数。
-
-##### 构造函数
-
-使用指定的初始capacity构造一个空列表：
-
-```java
-private static final Object[] EMPTY_ELEMENTDATA = {};
-
-public ArrayList(int initialCapacity) {
-    if (initialCapacity > 0) {
-        this.elementData = new Object[initialCapacity];
-    } else if (initialCapacity == 0) {
-        this.elementData = EMPTY_ELEMENTDATA;
-    } else {
-        throw new IllegalArgumentException("Illegal Capacity: "+
-                                           initialCapacity);
-    }
-}
-```
-
-构造一个初始capacity为0的空列表：
-
-```java
-private static final Object[] DEFAULTCAPACITY_EMPTY_ELEMENTDATA = {};
-
-public ArrayList() {
-    this.elementData = DEFAULTCAPACITY_EMPTY_ELEMENTDATA;
-}
-```
-
-构造一个包含指定元素集合的列表：
-
-```java
-public ArrayList(Collection<? extends E> c) {
-    elementData = c.toArray();
-    if ((size = elementData.length) != 0) {
-        // c.toArray might (incorrectly) not return Object[] (see 6260652)
-        if (elementData.getClass() != Object[].class)
-            elementData = Arrays.copyOf(elementData, size, Object[].class);
-    } else {
-        // replace with empty array.
-        this.elementData = EMPTY_ELEMENTDATA;
-    }
-}
-```
 
 ##### 添加元素
 

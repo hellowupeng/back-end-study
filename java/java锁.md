@@ -8,7 +8,7 @@
 
 ReentrantLock可以通过构造函数指定锁是否为公平锁，默认是非公平锁。非公平锁的优点在于吞吐量比公平锁大。
 
-Synchronized是一种费公平锁。由于其并不像ReentrantLock是通过AQS（AbstractQueueSynchronizer）来实现线程调度，所以并没有任何办法能使其变成公平锁。
+Synchronized是一种非公平锁。由于其并不像ReentrantLock是通过AQS（AbstractQueueSynchronizer）来实现线程调度，所以并没有办法能使其变成公平锁。
 
 ## 二、可重入锁
 

@@ -28,24 +28,23 @@
 14. kafka 原理和容错
 15. spark hadoop 原理
 16. redis 同步机制
-17. ClassLoader 机制
+17. [ClassLoader 机制](https://github.com/hellowupeng/interview/blob/master/java/ClassLoader%20机制.md)
 18. Http 协议
 19. cookie的限制
 20. 如何设计一个分步式登录系统？
-21. Spring加载过程？
+21. Spring的加载过程
 22. 自己有没有写过类似Spring这样的AOP事务？
-23. spring的加载过程？
-24. atomic 与 volatile的区别？
-25. Thread的 notify()给notifyAll()的区别?
-26. notifiy()是唤醒的那一个线程?
-27. Thread.sleep()唤醒以后是否需要重新竞争？
-28. 单例有多少种写法? 有什么区别? 你常用哪一种单例，为什么用这种？
-29. 问一个Thread.join()相关的问题?
-30. 写一个JAVA死锁的例子?
-31. 如何解决死锁?
-32. GC回收算法,及实现原理?
-33. HashMap数据存储结构? key重复了怎么办? 是如何解决的?
-34. Spring AOP的实现原理，底层用什么实现的？
+23. atomic 与 volatile的区别？
+24. Thread的 notify()给notifyAll()的区别?
+25. notifiy()是唤醒的那一个线程?
+26. Thread.sleep()唤醒以后是否需要重新竞争？
+27. 单例有多少种写法? 有什么区别? 你常用哪一种单例，为什么用这种？
+28. 问一个Thread.join()相关的问题?
+29. 写一个JAVA死锁的例子?
+30. 如何解决死锁?
+31. GC回收算法,及实现原理?
+32. HashMap数据存储结构? key重复了怎么办? 是如何解决的?
+33. Spring AOP的实现原理，底层用什么实现的？
 
 ## 二
 

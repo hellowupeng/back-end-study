@@ -163,6 +163,7 @@
 5. AbstractQueuedSynchronizer源码分析
 6. 自旋锁
 7. InnoDB深入
+8. 线程（Thread）的状态
 
 ###### 参考：
 

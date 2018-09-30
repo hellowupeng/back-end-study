@@ -1,5 +1,7 @@
 # synchronized
 
+复习（1）
+
 ## 一、synchronized
 
 java关键字，可以用于修饰类的实例方法、静态方法和代码块。

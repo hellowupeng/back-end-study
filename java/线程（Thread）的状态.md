@@ -25,5 +25,5 @@ public enum State {
 
 （调用了`Object.wait()`方法的线程在等待另一个线程调用`Object.notify()`或`Object.notifyAll()`。调用了`Thread.join()`方法的线程在等待指定线程终止。）
 
-6）（TIMED_WAITING）在调用了`Thread.sleep()` `Object.wait()` `Thread.join()` `LockSupport.parkNanos()` `LockSupport.parkUntil()`方法并指定了等待时间的线程会处于TIMED_WAITING状态。
+6）（TIMED_WAITING）在调用了`Thread.sleep()` `Object.wait()` `thread.join()` `LockSupport.parkNanos()` `LockSupport.parkUntil()`方法并指定了等待时间的线程会处于TIMED_WAITING状态。
 

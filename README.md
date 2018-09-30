@@ -163,7 +163,7 @@
 5. AbstractQueuedSynchronizer源码分析
 6. 自旋锁
 7. InnoDB深入
-8. 线程（Thread）的状态
+8. [线程（Thread）的状态](https://github.com/hellowupeng/interview/blob/master/java/线程（Thread）的状态.md)
 
 ###### 参考：
 

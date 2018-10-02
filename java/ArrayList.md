@@ -1,5 +1,7 @@
 # ArrayList
 
+*复习（1）*
+
 ArrayList是一个动态数组容器类，也是一个泛型容器。
 
 ArrayList类继承自AbstractList类， 实现了List<E>, RandomAccess, Cloneable, Serializable接口。

@@ -1,5 +1,7 @@
 # LinkedList
 
+*复习（1）*
+
 LinkedList是一个泛型容器类。
 
 LinkedList类继承自AbstractSequentialList抽象类，实现了List<E>, Deque<E>, Cloneable, Serializable接口。

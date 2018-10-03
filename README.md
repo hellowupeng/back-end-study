@@ -31,7 +31,7 @@
 2. [java锁](https://github.com/hellowupeng/interview/blob/master/java/java锁.md)
 3. [ReentrantLock实现原理](https://github.com/hellowupeng/interview/blob/master/java/ReentrantLock实现原理.md)
 4. [ReadWriteLock实现原理](https://github.com/hellowupeng/interview/blob/master/java/ReadWriteLock实现原理.md)
-5. atomic 与 volatile的区别
+5. atomic 与 volatile的区别？
 6. Thread的 notify()给notifyAll()的区别?
 7. notifiy()是唤醒的那一个线程?
 8. Thread.sleep()唤醒以后是否需要重新竞争？
@@ -40,10 +40,19 @@
 11. 如何解决死锁?
 12. 手写一个线程安全的单例模式
 13. 互斥与死锁相关的
-14. 并发和多线程（线程池、SYNC和Lock锁机制、线程通信、volatile、ThreadLocal、CyclicBarrier、Atom包、CountDownLatch、AQS、CAS原理等等）
-15. IO/NIO相关
-16. 线程池原理
-17. 悲观锁乐观锁
+14. 线程池
+15. SYNC和Lock锁机制
+16. 线程通信
+17. volatile
+18. ThreadLocal
+19. CyclicBarrier
+20. Atom包
+21. CountDownLatch
+22. AQS
+23. CAS原理
+24. IO/NIO相关
+25. 线程池原理
+26. 悲观锁乐观锁
 
 ## JVM
 

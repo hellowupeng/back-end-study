@@ -7,3 +7,4 @@
 ##### 参考资料
 
 1. 《Java并发编程的艺术》4.3.1 volatile和synchronized关键字
+

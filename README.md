@@ -54,6 +54,11 @@
 25. 线程池原理
 26. 悲观锁乐观锁
 
+##### 其他
+
+1. 等待/通知机制
+2. [线程（Thread）的状态](https://github.com/hellowupeng/interview/blob/master/java/线程（Thread）的状态.md)
+
 ## JVM
 
 1. [gc原理](https://github.com/hellowupeng/interview/blob/master/java/gc原理.md)
@@ -180,7 +185,6 @@
 4. AbstractQueuedSynchronizer源码分析
 5. 自旋锁
 6. InnoDB深入
-7. [线程（Thread）的状态](https://github.com/hellowupeng/interview/blob/master/java/线程（Thread）的状态.md)
 
 ###### 参考：
 

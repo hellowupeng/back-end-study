@@ -56,7 +56,7 @@
 
 ##### 其他
 
-1. 等待/通知机制
+1. [等待/通知机制](https://github.com/hellowupeng/interview/blob/master/java/等待通知机制.md)
 2. [线程（Thread）的状态](https://github.com/hellowupeng/interview/blob/master/java/线程（Thread）的状态.md)
 
 ## JVM

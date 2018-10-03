@@ -44,7 +44,7 @@
 15. SYNC和Lock锁机制
 16. 线程通信
 17. [volatile](https://github.com/hellowupeng/interview/blob/master/java/volatile.md)
-18. ThreadLocal
+18. [ThreadLocal](https://github.com/hellowupeng/interview/blob/master/java/ThreadLocal.md)
 19. CyclicBarrier
 20. Atom包
 21. CountDownLatch

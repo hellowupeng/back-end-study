@@ -1,53 +1,15 @@
 # synchronized
 
-复习（1）
+*复习（1）*
 
-## 一、synchronized
+关键字synchronized可以修饰方法或者以同步块的形式来进行使用，它主要确保多个线程在同一时刻，只能有一个线程处于方法或者同步块中，它保证了线程对变量访问的可见性和排他性。
 
-java关键字，可以用于修饰类的实例方法、静态方法和代码块。
+对于同步块的实现使用了monitorenter和monitorexit指令，而同步方法则是依靠方法修饰符上的ACC_SYNCHRONIZED来完成的。无论采用哪种方式，其本质是对一个对象的监视器（monitor）进行获取，而这个获取过程是排他的，也就是同一时刻只能有一个线程获取到由synchronized所保护对象的监视器。
 
-synchronized实例方法保护的是当前实例对象this，this对象有一个锁和一个等待队列，锁只能被一个线程持有，其他试图获得同样锁的线程需要等待。
+任意一个对象都拥有自己的监视器，当这个对象由同步块或者这个对象的同步方法调用时，执行方法的线程必须先获取到该对象的监视器才能进入同步块或者同步方法，而没有获取到监视器（执行该方法）的线程会被阻塞在同步块和同步方法的入口处，进入阻塞（BLOCKED）状态。
 
-执行synchronized实例方法的过程大致是：
+任意线程对由Synchronized保护的Object的访问，首先要获得Object的监视器。如果获取失败，线程进入同步队列，线程状态变为BLOCKED。当访问Object的前驱（获得了锁的线程）释放了锁，则该释放操作唤醒阻塞在同步队列中的线程，使其重新尝试对监视器的获取。
 
-1）尝试获取锁，如果能够获得锁，继续下一步，否则加入等待队列，阻塞并等待唤醒。
+##### 参考资料
 
-2）执行实例方法体代码。
-
-3）释放锁，如果等待队列上有等待的线程，从中取一个并唤醒，如果有多个等待的线程，唤醒哪一个是不一定的，不保证公平性。
-
-线程不能获得锁时，会加入等待队列等待，线程状态会变为BLOCKED。
-
-对静态方法，保护的是类对象。synchronized静态方法和synchronized实例方法保护的是不同的对象，不同的两个线程。
-
-synchronized是一种互斥锁。一次只允许一个线程访问同步代码。
-
-可重入性、内存可见性。
-
-## 二、synchronized实现原理
-
-java中每一个对象都可以作为锁，这是synchronized实现同步的基础：
-
-1 普通同步方法，锁是当前实例对象
-
-2 静态同步方法，锁是当前类的class对象
-
-3 同步方法块，锁是括号里面的对象
-
-##### 同步代码块
-
-使用monitorenter和monitorexit指令实现。
-
-对于synchronized语句当java源代码被javac编译成字节码（bytecode）时，会在同步块的入口位置和退出位置分别插入monitorenter和monitorexit字节码指令。JVM需要保证每一个monitorenter都有一个monitorexit与之相对应。任何对象都有一个monitor与之相关联，当且一个monitor被持有之后，它将处于锁定状态。线程执行到monitorenter指令时，将会尝试获取对象所对应的monitor所有权，即尝试获取对象的锁。
-
-（简单来说在JVM中monitorenter和monitorexit字节码依赖于底层的操作系统的Mutex Lock来实现的）
-
-##### 同步方法
-
-synchronized方法则会被编译成普通的方法调用和返回指令，如：invokevirtual、areturn指令，在VM字节码层面并没有任何特别的指令来实现被synchronized修饰的方法，而是在Class文件的方法表中将该方法的access_flags字段中的synchronized标志位置1，表示该方法是同步方法并使用调用该方法的对象或该方法所属的Class在JVM的内部对象表示Klass作为锁对象。
-
-
-
-##### 参考
-
-1 [JVM内部细节之一：synchronized关键字及实现细节（轻量级锁Lightweight Locking）](https://www.cnblogs.com/javaminer/p/3889023.html)
+1. 《Java并发编程的艺术》4.3.1 volatile和synchronized关键字

@@ -27,7 +27,7 @@
 
 ## Java并发编程
 
-1. [Synchronized实现原理](https://github.com/hellowupeng/interview/blob/master/java/Synchronized实现原理.md)
+1. [Synchronized](https://github.com/hellowupeng/interview/blob/master/java/Synchronized实现原理.md)
 2. [java锁](https://github.com/hellowupeng/interview/blob/master/java/java锁.md)
 3. [ReentrantLock实现原理](https://github.com/hellowupeng/interview/blob/master/java/ReentrantLock实现原理.md)
 4. [ReadWriteLock实现原理](https://github.com/hellowupeng/interview/blob/master/java/ReadWriteLock实现原理.md)
@@ -43,7 +43,7 @@
 14. 线程池
 15. SYNC和Lock锁机制
 16. 线程通信
-17. volatile
+17. [volatile](https://github.com/hellowupeng/interview/blob/master/java/volatile.md)
 18. ThreadLocal
 19. CyclicBarrier
 20. Atom包

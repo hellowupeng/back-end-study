@@ -35,7 +35,7 @@
 6. Thread的 notify()给notifyAll()的区别?
 7. [notifiy()是唤醒的那一个线程?](https://github.com/hellowupeng/interview/blob/master/java/notifiy()是唤醒的那一个线程.md)
 8. Thread.sleep()唤醒以后是否需要重新竞争？
-9. Thread.join()
+9. [Thread.join()](https://github.com/hellowupeng/interview/blob/master/java/Thread.join().md)
 10. 写一个JAVA死锁的例子?
 11. 如何解决死锁?
 12. 手写一个线程安全的单例模式

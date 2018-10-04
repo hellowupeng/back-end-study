@@ -40,7 +40,7 @@
 11. 如何解决死锁?
 12. 手写一个线程安全的单例模式
 13. 互斥与死锁相关的
-14. 线程池
+14. [线程池](https://github.com/hellowupeng/interview/blob/master/java/线程池.md)
 15. SYNC和Lock锁机制
 16. 线程通信
 17. [volatile](https://github.com/hellowupeng/interview/blob/master/java/volatile.md)
@@ -51,8 +51,7 @@
 22. AQS
 23. CAS原理
 24. IO/NIO相关
-25. 线程池原理
-26. 悲观锁乐观锁
+25. 悲观锁乐观锁
 
 ##### 其他
 

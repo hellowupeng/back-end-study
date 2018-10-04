@@ -1,5 +1,7 @@
 # Thread.join()
 
+*复习（1）*
+
 如果一个线程A执行了thread.join()语句，其含义是：当前线程A等待thread线程终止后才从thread.join()返回。
 
 ```Java

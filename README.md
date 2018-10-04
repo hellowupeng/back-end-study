@@ -33,7 +33,7 @@
 4. [ReadWriteLock实现原理](https://github.com/hellowupeng/interview/blob/master/java/ReadWriteLock实现原理.md)
 5. atomic 与 volatile的区别？
 6. Thread的 notify()给notifyAll()的区别?
-7. [notifiy()是唤醒的那一个线程?](https://github.com/hellowupeng/interview/blob/master/java/notifiy()是唤醒的那一个线程.md)
+7. [notifiy()是唤醒的哪一个线程?](https://github.com/hellowupeng/interview/blob/master/java/notifiy()是唤醒的那一个线程.md)
 8. Thread.sleep()唤醒以后是否需要重新竞争？
 9. [Thread.join()](https://github.com/hellowupeng/interview/blob/master/java/Thread.join().md)
 10. 写一个JAVA死锁的例子?

@@ -106,7 +106,9 @@ after------------------
 package org.java.base.springaop
 
 public class Base {
-	System.out.println("add-----------");
+	public void add() {
+		System.out.println("add-----------");
+	}
 }
 ```
 

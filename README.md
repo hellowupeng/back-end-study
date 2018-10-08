@@ -9,21 +9,20 @@
 5. LinkedList, ArrayList 区别
 6. [ClassLoader 机制](https://github.com/hellowupeng/interview/blob/master/java/ClassLoader%20机制.md)
 7. HashMap数据存储结构? key重复了怎么办? 是如何解决的?
-8. hashmap有什么漏洞会导致他变慢？
+8. HashMap的漏洞？
 9. 如何给hashmap的key对象设计他的hashcode？
 10. 泛型通配符?在什么情况下使用？
 11. JDK1.8中对HashMap的增强，如果一个桶上的节点数量过多，链表+数组的结构就会转换为红黑树。
-12. ConcurrentHashMap
-13. 各种List
-14. 面向对象
-15. 四个特性
-16. 重载重写
-17. static和final等
-18. 反射和代理
-19. Java8相关
-20. 序列化
-21. 类加载机制
-22. 动态代理
+12. 各种List
+13. 面向对象
+14. 四个特性
+15. 重载重写
+16. static和final等
+17. 反射和代理
+18. Java8相关
+19. 序列化
+20. 类加载机制
+21. 动态代理
 
 ## Java并发编程
 
@@ -46,11 +45,11 @@
 17. 互斥与死锁相关的
 18. SYNC和Lock锁机制
 19. 线程通信
-20. CyclicBarrier
-21. Atom包
-22. CountDownLatch
-23. CAS原理
-24. IO/NIO相关
+20. ConcurrentHashMap
+21. CyclicBarrier
+22. Atom包
+23. CountDownLatch
+24. CAS原理
 25. 悲观锁乐观锁
 
 ##### 其他
@@ -108,6 +107,7 @@
 12. (B)IO/NIO/AIO三者原理，各个语言是怎么实现的
 13. Web相关（servlet、cookie/session、Spring)
 14. dubbo原理
+15. IO/NIO相关
 
 ## 网络
 

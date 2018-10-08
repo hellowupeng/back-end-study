@@ -9,7 +9,7 @@
 5. LinkedList, ArrayList 区别
 6. [ClassLoader 机制](https://github.com/hellowupeng/interview/blob/master/java/ClassLoader%20机制.md)
 7. HashMap数据存储结构? key重复了怎么办? 是如何解决的?
-8. HashMap的漏洞？
+8. [HashMap的漏洞？](https://github.com/hellowupeng/interview/blob/master/java/HashMap的漏洞？.md)
 9. 如何给hashmap的key对象设计他的hashcode？
 10. 泛型通配符?在什么情况下使用？
 11. JDK1.8中对HashMap的增强，如果一个桶上的节点数量过多，链表+数组的结构就会转换为红黑树。
@@ -23,6 +23,10 @@
 19. 序列化
 20. 类加载机制
 21. 动态代理
+
+##### 其他
+
+1. HashTable？
 
 ## Java并发编程
 

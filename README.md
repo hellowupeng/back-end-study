@@ -34,7 +34,7 @@
 5. atomic 与 volatile的区别？
 6. [Thread的notify()和notifyAll()的区别?](https://github.com/hellowupeng/interview/blob/master/java/Thread的notify()和notifyAll()的区别.md)
 7. [notifiy()是唤醒的哪一个线程?](https://github.com/hellowupeng/interview/blob/master/java/notifiy()是唤醒的那一个线程.md)
-8. Thread.sleep()唤醒以后是否需要重新竞争？
+8. [Thread.sleep()唤醒以后是否需要重新竞争？](https://github.com/hellowupeng/interview/blob/master/java/Thread.sleep()唤醒以后是否需要重新竞争？.md)
 9. [Thread.join()](https://github.com/hellowupeng/interview/blob/master/java/Thread.join().md)
 10. 写一个JAVA死锁的例子?
 11. 如何解决死锁?

@@ -38,7 +38,7 @@
 9. [Thread.join()](https://github.com/hellowupeng/interview/blob/master/java/Thread.join().md)
 10. 写一个JAVA死锁的例子?
 11. 如何解决死锁?
-12. 手写一个线程安全的单例模式
+12. [手写一个线程安全的单例模式](https://github.com/hellowupeng/interview/blob/master/java/手写一个线程安全的单例模式.md)
 13. 互斥与死锁相关的
 14. [线程池](https://github.com/hellowupeng/interview/blob/master/java/线程池.md)
 15. SYNC和Lock锁机制

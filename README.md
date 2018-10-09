@@ -51,7 +51,7 @@
 19. SYNC和Lock锁机制
 20. 线程通信
 21. ConcurrentHashMap
-22. CountDownLatch
+22. [CountDownLatch](https://github.com/hellowupeng/interview/blob/master/java/CountDownLatch？.md)
 23. 同步屏障CyclicBarrier
 24. CAS原理
 25. 悲观锁乐观锁

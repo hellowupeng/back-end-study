@@ -1,0 +1,13 @@
+# CountDownLatch？
+
+CountDownLatch允许一个或多个线程等待其他线程完成操作。
+
+（CountDownLatch也可以实现join的功能，并且比join的功能更多。）
+
+CountDownLatch的构造函数接收一个int类型的参数作为计数器，如果你想等待N个点完成，这里就传入N。
+
+当我们调用CountDownLatch的countDown方法时，N就会减1，CountDownLatch的await方法会阻塞当前线程，直到N变成零。由于CountDown的方法可以用在任何地方，所以这里说的N个点，可以是N个线程，也可以是1个线程里的N个执行步骤。用在多个线程时，只需要把这个CountDownLatch的引用传递到线程里即可。
+
+（计数器必须大于等于0，只是等于0的时候，计数器就是0，调用await方法时不会阻塞当前线程。）
+
+实现：CountDownLatch阻塞线程是使用内部的自定义队列同步器来实现的，同步状态为传入构造函数的N，调用countDown时，N-1，同步状态为0时不再阻塞线程。

@@ -26,7 +26,7 @@
 
 ##### 其他
 
-1. HashTable？
+1. [HashTable？](https://github.com/hellowupeng/interview/blob/master/java/HashTable.md)
 
 ## Java并发编程
 
@@ -51,7 +51,7 @@
 19. 线程通信
 20. ConcurrentHashMap
 21. CyclicBarrier
-22. Atom包
+22. Atomic包
 23. CountDownLatch
 24. CAS原理
 25. 悲观锁乐观锁

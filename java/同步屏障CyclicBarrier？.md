@@ -8,6 +8,8 @@ CyclicBarrier还提供了一个更高级的构造函数CyclicBarrier(int parties
 
 （应用场景）CyclicBarrier可以用于多线程计算数据，最后合并计算结果的场景。
 
+（实现）内部阻塞控制主要由一个重入锁（ReentrantLock）和Condition实现。
+
 ##### CyclicBarrier与CountDownLatch的区别
 
 CountDownLatch的计数器只能使用一次，而CyclicBarrier的计数器可以使用reset()方法重置。所以CyclicBarrier能处理更为复杂的业务场景。例如，如果计算发生错误，可以重置计数器，并让线程重新执行一次。

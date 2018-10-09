@@ -52,7 +52,7 @@
 20. 线程通信
 21. ConcurrentHashMap
 22. [CountDownLatch](https://github.com/hellowupeng/interview/blob/master/java/CountDownLatch？.md)
-23. 同步屏障CyclicBarrier
+23. [同步屏障CyclicBarrier](https://github.com/hellowupeng/interview/blob/master/java/同步屏障CyclicBarrier？.md)
 24. CAS原理
 25. 悲观锁乐观锁
 
@@ -60,6 +60,7 @@
 
 1. [等待/通知机制](https://github.com/hellowupeng/interview/blob/master/java/等待通知机制.md)
 2. [线程（Thread）的状态](https://github.com/hellowupeng/interview/blob/master/java/线程（Thread）的状态.md)
+3. 信号量Semaphore
 
 ## JVM
 

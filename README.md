@@ -1,13 +1,13 @@
-# Q1
+# Back-end Study
 
 ## java
 
 1. [常用的异常类型?](https://github.com/hellowupeng/interview/blob/master/java/常用的异常类型.md)
 2. hashmap原理
-3. [ArrayList](https://github.com/hellowupeng/interview/blob/master/java/ArrayList.md)
-4. [LinkedList](https://github.com/hellowupeng/interview/blob/master/java/LinkedList.md)
+3. [ArrayList](https://github.com/hellowupeng/interview/blob/master/java/ArrayList.md)🌲
+4. [LinkedList](https://github.com/hellowupeng/interview/blob/master/java/LinkedList.md)🌲
 5. LinkedList, ArrayList 区别
-6. [ClassLoader 机制](https://github.com/hellowupeng/interview/blob/master/java/ClassLoader%20机制.md)
+6. [ClassLoader 机制](https://github.com/hellowupeng/interview/blob/master/java/ClassLoader%20机制.md)🌲
 7. HashMap数据存储结构? key重复了怎么办? 是如何解决的?
 8. [HashMap的漏洞？](https://github.com/hellowupeng/interview/blob/master/java/HashMap的漏洞？.md)
 9. 如何给hashmap的key对象设计他的hashcode？
@@ -60,11 +60,11 @@
 
 1. [等待/通知机制](https://github.com/hellowupeng/interview/blob/master/java/等待通知机制.md)
 2. [线程（Thread）的状态](https://github.com/hellowupeng/interview/blob/master/java/线程（Thread）的状态.md)
-3. 信号量Semaphore
+3. [信号量Semaphore](https://github.com/hellowupeng/interview/blob/master/java/信号量Semaphore？.md)
 
 ## JVM
 
-1. [gc原理](https://github.com/hellowupeng/interview/blob/master/java/gc原理.md)
+1. [gc原理](https://github.com/hellowupeng/interview/blob/master/java/gc原理.md)🌲
 2. GC回收算法,及实现原理?
 3. in-jvm（必考）以及jmm缓存模型如何调优?
 4. JVM（内存模型、GC垃圾回收，包括分代，GC算法，收集器、类加载和双亲委派、JVM调优，内存泄漏和内存溢出）
@@ -82,10 +82,10 @@
 6. MySQL的常见优化方式、定为慢查询
 7. 数据库（最多的还是mysql，Nosql有redis）索引（包括分类及优化方式，失效条件，底层结构）
 8. sql语法（join，union，子查询，having，group by）
-9. [引擎对比（InnoDB，MyISAM）](https://github.com/hellowupeng/interview/blob/master/db/MySQL引擎对比（InnoDB，MyISAM）.md)
+9. [引擎对比（InnoDB，MyISAM）](https://github.com/hellowupeng/interview/blob/master/db/MySQL引擎对比（InnoDB，MyISAM）.md)🌲
 10. 数据库的锁（行锁，表锁，页级锁，意向锁，读锁，写锁，悲观锁，乐观锁，以及加锁的select sql方式）
 11. 隔离级别，依次解决的问题（脏读、不可重复读、幻读）
-12. [事务的ACID](https://github.com/hellowupeng/interview/blob/master/db/事务的ACID.md)
+12. [事务的ACID](https://github.com/hellowupeng/interview/blob/master/db/事务的ACID.md)🌲
 13. 优化（explain，慢查询，show profile）
 14. 数据库的范式
 15. 分库分表，主从复制，读写分离。
@@ -98,7 +98,7 @@
 
 ## 框架
 
-1. [Spring AOP实现原理](https://github.com/hellowupeng/interview/blob/master/framework/aop%20原理.md)
+1. [Spring AOP实现原理](https://github.com/hellowupeng/interview/blob/master/framework/aop%20原理.md)🌲
 2. kafka 原理和容错
 3. spark hadoop 原理
 4. Spring的加载过程
@@ -122,9 +122,10 @@
 4. get/post 以及幂等性
 5. http 协议头相关
 6. 网络攻击（CSRF、XSS）
-7. [TCP/IP三次握手、四次挥手](https://github.com/hellowupeng/interview/blob/master/network/TCPIP三次握手、四次挥手.md)
+7. [TCP/IP三次握手、四次挥手](https://github.com/hellowupeng/interview/blob/master/network/TCPIP三次握手、四次挥手.md)🌲
 8. TCP与UDP比较
 9. DDos攻击
+10. HTTP和HTTPS请求流程
 
 ## 算法、数据结构
 
@@ -165,7 +166,7 @@
 
 1. 如何设计一个分步式登录系统？
 2. cookie的限制
-3. [session](https://github.com/hellowupeng/interview/blob/master/java/session.md)
+3. [session](https://github.com/hellowupeng/interview/blob/master/java/session.md)🌲
 4. 自定义表格的实现?
 5. 动态表单设计?
 6. 地图组件?

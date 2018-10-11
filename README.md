@@ -2,7 +2,7 @@
 
 ## 面向对象编程/分析/设计
 
-1. 面向对象三个基本特征、五种设计原则
+1. [面向对象三个基本特征、五种设计原则](https://github.com/hellowupeng/back-end-study/blob/master/ood/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B8%89%E4%B8%AA%E5%9F%BA%E6%9C%AC%E7%89%B9%E5%BE%81%E3%80%81%E4%BA%94%E7%A7%8D%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%EF%BC%9F.md)
 
 ## java
 
@@ -20,11 +20,12 @@
 12. 各种List
 13. 重载重写
 14. static和final等
-15. 反射和代理
-16. Java8相关
-17. 序列化
-18. 类加载机制
-19. 动态代理
+15. 反射
+16. 代理
+17. Java8相关
+18. 序列化
+19. 类加载机制
+20. 动态代理
 
 ##### 其他
 
@@ -115,6 +116,7 @@
 13. Web相关（servlet、cookie/session、Spring)
 14. dubbo原理
 15. IO/NIO相关
+16. MyBatis实现原理
 
 ## 网络
 

@@ -2,7 +2,7 @@
 
 ## 面向对象编程/分析/设计
 
-1. [面向对象三个基本特征、五种设计原则](https://github.com/hellowupeng/back-end-study/blob/master/ood/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B8%89%E4%B8%AA%E5%9F%BA%E6%9C%AC%E7%89%B9%E5%BE%81%E3%80%81%E4%BA%94%E7%A7%8D%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%EF%BC%9F.md)
+1. [面向对象三个基本特征、五种设计原则](https://github.com/hellowupeng/back-end-study/blob/master/ood/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B8%89%E4%B8%AA%E5%9F%BA%E6%9C%AC%E7%89%B9%E5%BE%81%E3%80%81%E4%BA%94%E7%A7%8D%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%EF%BC%9F.md)🌲
 
 ## Java
 
@@ -20,7 +20,7 @@
 12. 各种List
 13. 重载重写
 14. static和final等
-15. [反射](https://github.com/hellowupeng/back-end-study/blob/master/java/%E5%8F%8D%E5%B0%84.md)
+15. [反射](https://github.com/hellowupeng/back-end-study/blob/master/java/%E5%8F%8D%E5%B0%84.md)🌲
 16. 代理
 17. Java8相关
 18. 序列化
@@ -64,7 +64,7 @@
 1. [等待/通知机制](https://github.com/hellowupeng/interview/blob/master/java/等待通知机制.md)
 2. [线程（Thread）的状态](https://github.com/hellowupeng/interview/blob/master/java/线程（Thread）的状态.md)
 3. [信号量Semaphore](https://github.com/hellowupeng/interview/blob/master/java/信号量Semaphore？.md)
-4. 死锁
+4. [死锁](https://github.com/hellowupeng/back-end-study/blob/master/java/%E6%AD%BB%E9%94%81%EF%BC%9F.md)🌲
 
 ## JVM
 

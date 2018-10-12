@@ -78,7 +78,7 @@
 
 ## 数据库、缓存
 
-1. redis同步机制
+1. [redis同步机制](https://github.com/hellowupeng/back-end-study/blob/master/db/redis%E5%90%8C%E6%AD%A5%E6%9C%BA%E5%88%B6.md)
 2. 能根据实际的需要构建缓存结构提高网站的访问速度，熟练使用ehcache、oscache，了解memcache。
 3. 熟悉分布式数据库设计和优化技术，熟练使用mysql、oracle、SqlServer等主流数据库，熟悉hadoop hbase mangodb redis ehcache、oscache memcache。对于大数据量的数据库处理采用分表分库、数据库读写分离、建立缓存等手段优化性能。
 4. 缓存的使用，如果现在需要实现一个简单的缓存，供搜索框中的ajax异步请求调用，使用什么结构？

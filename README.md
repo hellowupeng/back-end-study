@@ -100,6 +100,10 @@
 20. 分库分表
 21. 分布式事务提交
 
+##### 其他
+
+1. 数据服务器架构（数据库、缓存、文件）
+
 ## 框架
 
 1. [Spring AOP实现原理](https://github.com/hellowupeng/interview/blob/master/framework/aop%20原理.md)🌲

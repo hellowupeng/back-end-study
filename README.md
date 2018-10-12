@@ -69,7 +69,7 @@
 ## JVM
 
 1. [gc原理](https://github.com/hellowupeng/interview/blob/master/java/gc原理.md)🌲
-2. GC回收算法,及实现原理?
+2. [GC回收算法,及实现原理?](https://github.com/hellowupeng/back-end-study/blob/master/java/GC%E5%9B%9E%E6%94%B6%E7%AE%97%E6%B3%95%2C%E5%8F%8A%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86.md)
 3. in-jvm（必考）以及jmm缓存模型如何调优?
 4. JVM（内存模型、GC垃圾回收，包括分代，GC算法，收集器、类加载和双亲委派、JVM调优，内存泄漏和内存溢出）
 5. 内存模型
@@ -78,7 +78,7 @@
 
 ## 数据库、缓存
 
-1. redis 同步机制
+1. redis同步机制
 2. 能根据实际的需要构建缓存结构提高网站的访问速度，熟练使用ehcache、oscache，了解memcache。
 3. 熟悉分布式数据库设计和优化技术，熟练使用mysql、oracle、SqlServer等主流数据库，熟悉hadoop hbase mangodb redis ehcache、oscache memcache。对于大数据量的数据库处理采用分表分库、数据库读写分离、建立缓存等手段优化性能。
 4. 缓存的使用，如果现在需要实现一个简单的缓存，供搜索框中的ajax异步请求调用，使用什么结构？

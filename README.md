@@ -30,6 +30,7 @@
 ##### 其他
 
 1. [HashTable？](https://github.com/hellowupeng/interview/blob/master/java/HashTable.md)
+2. java 11、10、9、8
 
 ## Java并发编程
 
@@ -138,11 +139,11 @@
 7. [TCP/IP三次握手、四次挥手](https://github.com/hellowupeng/interview/blob/master/network/TCPIP三次握手、四次挥手.md)🌲
 8. TCP与UDP比较
 9. DDos攻击
-10. HTTP和HTTPS请求流程
+10. [HTTP和HTTPS请求流程](https://github.com/hellowupeng/back-end-study/blob/master/network/HTTP%E5%92%8CHTTPS%E8%AF%B7%E6%B1%82%E6%B5%81%E7%A8%8B.md)
 
 ## 算法、数据结构
 
-1. 红黑树的问题，B+树
+1. 红黑树
 2. 算法和数据结构数组、链表、二叉树、队列、栈的各种操作（性能，场景）
 3. 二分查找和各种变种的二分查找
 4. 各类排序算法以及复杂度分析（快排、归并、堆）

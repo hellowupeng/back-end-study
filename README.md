@@ -168,7 +168,7 @@
 ## Linux
 
 1. Linux内核select poll epoll
-2. linux常用命令（问的时候都会给具体某一个场景）
+2. [linux常用命令（问的时候都会给具体某一个场景）](https://github.com/hellowupeng/back-end-study/blob/master/linux/linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%EF%BC%88%E9%97%AE%E7%9A%84%E6%97%B6%E5%80%99%E9%83%BD%E4%BC%9A%E7%BB%99%E5%85%B7%E4%BD%93%E6%9F%90%E4%B8%80%E4%B8%AA%E5%9C%BA%E6%99%AF%EF%BC%89.md)
 3. Linux内核相关（select、poll、epoll）
 
 ## 操作系统
@@ -176,7 +176,7 @@
 1. 操作系统：进程通信IPC（几种方式），与线程区别
 2. OS的几种策略（页面置换，进程调度等，每个里面有几种算法）
 
-## 系统设计
+## 系统设计s
 
 1. 如何设计一个分步式登录系统？
 2. cookie的限制

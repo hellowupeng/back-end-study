@@ -157,7 +157,7 @@
 ## 设计模式
 
 1. 单例有多少种写法? 有什么区别? 你常用哪一种单例，为什么用这种？
-2. 设计模式（常用的，jdk中有的）
+2. [设计模式（常用的，jdk中有的）](https://github.com/hellowupeng/back-end-study/blob/master/design-pattern/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%EF%BC%88%E5%B8%B8%E7%94%A8%E7%9A%84%EF%BC%8Cjdk%E4%B8%AD%E6%9C%89%E7%9A%84%EF%BC%89%EF%BC%9F.md)
 
 ## 服务器
 

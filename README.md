@@ -195,14 +195,9 @@
 1. 微服务
 2. 高并发问题
 
-## 其他
+## 单元测试
 
-1. Synchronized源码分析
-2. ReentrantLock源码分析
-3. ReadWriteLock源码分析
-4. AbstractQueuedSynchronizer源码分析
-5. 自旋锁
-6. InnoDB深入
+1. JUnit
 
 ## 题目
 

@@ -161,7 +161,7 @@
 
 ## 服务器
 
-1. 项目中使用的单机服务器，如果将它部署成分布式服务器？
+1. [项目中使用的单机服务器，如果将它部署成分布式服务器？](https://github.com/hellowupeng/back-end-study/blob/master/server/%E9%A1%B9%E7%9B%AE%E4%B8%AD%E4%BD%BF%E7%94%A8%E7%9A%84%E5%8D%95%E6%9C%BA%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%8C%E5%A6%82%E6%9E%9C%E5%B0%86%E5%AE%83%E9%83%A8%E7%BD%B2%E6%88%90%E5%88%86%E5%B8%83%E5%BC%8F%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%9F.md)
 2. 了解基于dns轮询的负载均衡，熟练配置web服务器实现负载均衡，程序级能综合使用基于hash或取模等手段实现软负载。
 3. 限流
 

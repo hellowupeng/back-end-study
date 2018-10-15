@@ -143,7 +143,7 @@
 
 ## 算法、数据结构
 
-1. 红黑树
+1. [红黑树](https://github.com/hellowupeng/back-end-study/blob/master/algorithm/%E7%BA%A2%E9%BB%91%E6%A0%91%EF%BC%9F.md)
 2. 算法和数据结构数组、链表、二叉树、队列、栈的各种操作（性能，场景）
 3. 二分查找和各种变种的二分查找
 4. 各类排序算法以及复杂度分析（快排、归并、堆）

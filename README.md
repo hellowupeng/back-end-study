@@ -6,7 +6,7 @@
 
 ## Java
 
-1. [常用的异常类型?](https://github.com/hellowupeng/interview/blob/master/java/常用的异常类型.md)
+1. [常用异常类型?](https://github.com/hellowupeng/interview/blob/master/java/常用的异常类型.md)🍎
 2. hashmap原理
 3. [ArrayList](https://github.com/hellowupeng/interview/blob/master/java/ArrayList.md)🌲
 4. [LinkedList](https://github.com/hellowupeng/interview/blob/master/java/LinkedList.md)🌲

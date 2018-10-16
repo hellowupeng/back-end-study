@@ -10,7 +10,7 @@
 2. hashmap原理
 3. [ArrayList](https://github.com/hellowupeng/interview/blob/master/java/ArrayList.md)🌲🍎
 4. [LinkedList](https://github.com/hellowupeng/interview/blob/master/java/LinkedList.md)🌲🍎
-5. LinkedList, ArrayList区别
+5. [LinkedList, ArrayList区别](https://github.com/hellowupeng/back-end-study/blob/master/java/LinkedList%2C%20ArrayList%E5%8C%BA%E5%88%AB.md)
 6. [ClassLoader 机制](https://github.com/hellowupeng/interview/blob/master/java/ClassLoader%20机制.md)🌲
 7. HashMap数据存储结构? key重复了怎么办? 是如何解决的?
 8. [HashMap的漏洞？](https://github.com/hellowupeng/interview/blob/master/java/HashMap的漏洞？.md)

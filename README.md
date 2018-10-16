@@ -47,7 +47,7 @@
 11. [java锁](https://github.com/hellowupeng/interview/blob/master/java/java锁.md)
 12. [重入锁（ReentrantLock）实现原理](https://github.com/hellowupeng/interview/blob/master/java/ReentrantLock实现原理.md)
 13. [读写锁（ReentrantReadWriteLock）实现原理](https://github.com/hellowupeng/interview/blob/master/java/ReadWriteLock实现原理.md)
-14. atomic与volatile的区别
+14. [atomic与volatile的区别](https://github.com/hellowupeng/back-end-study/blob/master/java/atomic%E4%B8%8Evolatile%E7%9A%84%E5%8C%BA%E5%88%AB.md)
 15. [Atomic包](https://github.com/hellowupeng/interview/blob/master/java/Atomic包？.md)
 16. 写一个JAVA死锁的例子
 17. 如何解决死锁?

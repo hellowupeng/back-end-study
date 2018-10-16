@@ -173,7 +173,7 @@
 
 ## 操作系统
 
-1. 操作系统：进程通信IPC（几种方式），与线程区别
+1. [操作系统：进程通信IPC（几种方式），与线程区别](https://github.com/hellowupeng/back-end-study/blob/master/operating-system/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%EF%BC%9A%E8%BF%9B%E7%A8%8B%E9%80%9A%E4%BF%A1IPC%EF%BC%88%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F%EF%BC%89%EF%BC%8C%E4%B8%8E%E7%BA%BF%E7%A8%8B%E5%8C%BA%E5%88%AB.md)
 2. OS的几种策略（页面置换，进程调度等，每个里面有几种算法）
 
 ## 系统设计s

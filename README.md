@@ -179,7 +179,7 @@
 ## 系统设计
 
 1. 如何设计一个分步式登录系统？
-2. cookie的限制
+2. [cookie的限制](https://github.com/hellowupeng/back-end-study/blob/master/system-design/cookie%E7%9A%84%E9%99%90%E5%88%B6.md)
 3. [session](https://github.com/hellowupeng/interview/blob/master/java/session.md)🌲
 4. 自定义表格的实现?
 5. 动态表单设计?

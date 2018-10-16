@@ -57,7 +57,7 @@
 21. ConcurrentHashMap
 22. [CountDownLatch](https://github.com/hellowupeng/interview/blob/master/java/CountDownLatch？.md)
 23. [同步屏障CyclicBarrier](https://github.com/hellowupeng/interview/blob/master/java/同步屏障CyclicBarrier？.md)
-24. CAS原理
+24. CAS
 25. 悲观锁、乐观锁
 
 ##### 其他

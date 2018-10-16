@@ -10,7 +10,7 @@
 2. hashmap原理
 3. [ArrayList](https://github.com/hellowupeng/interview/blob/master/java/ArrayList.md)🌲🍎
 4. [LinkedList](https://github.com/hellowupeng/interview/blob/master/java/LinkedList.md)🌲🍎
-5. LinkedList, ArrayList 区别
+5. LinkedList, ArrayList区别
 6. [ClassLoader 机制](https://github.com/hellowupeng/interview/blob/master/java/ClassLoader%20机制.md)🌲
 7. HashMap数据存储结构? key重复了怎么办? 是如何解决的?
 8. [HashMap的漏洞？](https://github.com/hellowupeng/interview/blob/master/java/HashMap的漏洞？.md)
@@ -186,6 +186,10 @@
 6. 地图组件?
 7. 场景式的问题:秒杀,能列出常见的排队、验证码、库存扣减方式对系统高并发的影响?
 
+## 单元测试
+
+1. JUnit
+
 ## 项目
 
 1. 之前项目经历，运用的技术，遇到的问题，如何解决，个人有什么收获和成长；
@@ -195,10 +199,6 @@
 
 1. 微服务
 2. 高并发问题
-
-## 单元测试
-
-1. JUnit
 
 ## 题目
 

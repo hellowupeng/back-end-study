@@ -63,7 +63,7 @@
 23. [同步屏障CyclicBarrier](https://github.com/hellowupeng/interview/blob/master/java/同步屏障CyclicBarrier？.md)
 24. [CAS](https://github.com/hellowupeng/back-end-study/blob/master/java/CAS.md)🌲
 25. 悲观锁、乐观锁
-26. Java内存模型
+26. [Java内存模型](https://github.com/hellowupeng/back-end-study/blob/master/java/Java%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B.md)🌲
 
 ##### 其他
 
@@ -78,7 +78,7 @@
 2. [GC回收算法,及实现原理](https://github.com/hellowupeng/back-end-study/blob/master/java/GC%E5%9B%9E%E6%94%B6%E7%AE%97%E6%B3%95%2C%E5%8F%8A%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86.md)
 3. in-jvm（必考）以及jmm缓存模型如何调优
 4. JVM（内存模型、GC垃圾回收，包括分代，GC算法，收集器、类加载和双亲委派、JVM调优，内存泄漏和内存溢出）
-5. JVM内存模型
+5. [JVM内存模型](https://github.com/hellowupeng/back-end-study/blob/master/jvm/JVM%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B.md)🌲
 6. GC
 7. JVM调优
 

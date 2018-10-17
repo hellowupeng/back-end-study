@@ -117,18 +117,16 @@
 2. kafka 原理和容错
 3. spark hadoop 原理
 4. [Spring的加载过程](https://github.com/hellowupeng/back-end-study/blob/master/framework/Spring%E7%9A%84%E5%8A%A0%E8%BD%BD%E8%BF%87%E7%A8%8B.md)
-5. Spring AOP的实现原理，底层用什么实现的？
-6. 自己有没有写过类似Spring这样的AOP事务？
-7. 常用的RPC框架
-8. nio和io
-9. 分布式框架dubbo(阿里巴巴开源框架)
-10. 熟练掌握lucene，能基于lucene开发大型的搜索引擎，并能用lucene来改善和优化数据库的like查询。
-11. Netty
-12. (B)IO/NIO/AIO三者原理，各个语言是怎么实现的
-13. Web相关（servlet、cookie/session、Spring)
-14. dubbo原理
-15. IO/NIO相关
-16. MyBatis实现原理
+5. 自己有没有写过类似Spring这样的AOP事务？
+6. 常用的RPC框架
+7. 分布式框架dubbo(阿里巴巴开源框架)
+8. 熟练掌握lucene，能基于lucene开发大型的搜索引擎，并能用lucene来改善和优化数据库的like查询。
+9. Netty
+10. (B)IO/NIO/AIO三者原理，各个语言是怎么实现的
+11. Web相关（servlet、cookie/session、Spring)
+12. dubbo原理
+13. IO/NIO相关
+14. MyBatis实现原理
 
 ##### 其他
 

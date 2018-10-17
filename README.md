@@ -71,6 +71,7 @@
 2. [线程（Thread）的状态](https://github.com/hellowupeng/interview/blob/master/java/线程（Thread）的状态.md)
 3. [信号量Semaphore](https://github.com/hellowupeng/interview/blob/master/java/信号量Semaphore？.md)
 4. [死锁](https://github.com/hellowupeng/back-end-study/blob/master/java/%E6%AD%BB%E9%94%81%EF%BC%9F.md)
+5. volatile和synchronized的区别
 
 ## JVM
 

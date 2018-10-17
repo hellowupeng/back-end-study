@@ -31,7 +31,7 @@
 19. 类加载机制
 20. 动态代理
 
-##### 其他
+### 其他
 
 1. [HashTable？](https://github.com/hellowupeng/interview/blob/master/java/HashTable.md)
 2. java各版本区别
@@ -65,7 +65,7 @@
 25. 悲观锁、乐观锁
 26. [Java内存模型](https://github.com/hellowupeng/back-end-study/blob/master/java/Java%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B.md)🌲
 
-##### 其他
+### 其他
 
 1. [等待/通知机制](https://github.com/hellowupeng/interview/blob/master/java/等待通知机制.md)
 2. [线程（Thread）的状态](https://github.com/hellowupeng/interview/blob/master/java/线程（Thread）的状态.md)
@@ -76,7 +76,7 @@
 ## JVM
 
 1. [gc原理](https://github.com/hellowupeng/interview/blob/master/java/gc原理.md)
-2. [GC回收算法,及实现原理](https://github.com/hellowupeng/back-end-study/blob/master/java/GC%E5%9B%9E%E6%94%B6%E7%AE%97%E6%B3%95%2C%E5%8F%8A%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86.md)
+2. [GC回收算法,及实现原理](https://github.com/hellowupeng/back-end-study/blob/master/java/GC%E5%9B%9E%E6%94%B6%E7%AE%97%E6%B3%95%2C%E5%8F%8A%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86.md)🍎
 3. in-jvm（必考）以及jmm缓存模型如何调优
 4. JVM（内存模型、GC垃圾回收，包括分代，GC算法，收集器、类加载和双亲委派、JVM调优，内存泄漏和内存溢出）
 5. [JVM内存模型](https://github.com/hellowupeng/back-end-study/blob/master/jvm/JVM%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B.md)🌲
@@ -107,7 +107,7 @@
 20. 分库分表
 21. 分布式事务提交
 
-##### 其他
+### 其他
 
 1. [数据服务器架构（数据库、缓存、文件）](https://github.com/hellowupeng/back-end-study/blob/master/db/%E6%95%B0%E6%8D%AE%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9E%B6%E6%9E%84%EF%BC%88%E6%95%B0%E6%8D%AE%E5%BA%93%E3%80%81%E7%BC%93%E5%AD%98%E3%80%81%E6%96%87%E4%BB%B6%EF%BC%89.md)
 
@@ -128,7 +128,7 @@
 13. [IO/NIO相关](https://github.com/hellowupeng/back-end-study/blob/master/framework/IONIO相关.md)🌲
 14. MyBatis实现原理
 
-##### 其他
+### 其他
 
 1. Spring Boot启动过程
 

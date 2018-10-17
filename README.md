@@ -1,5 +1,9 @@
 # Back-end Study
 
+> 🌲：学习记录
+>
+> 🍎：复习记录
+
 ## 面向对象编程/分析/设计
 
 1. [面向对象三个基本特征、五种设计原则](https://github.com/hellowupeng/back-end-study/blob/master/ood/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E4%B8%89%E4%B8%AA%E5%9F%BA%E6%9C%AC%E7%89%B9%E5%BE%81%E3%80%81%E4%BA%94%E7%A7%8D%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%EF%BC%9F.md)🍎
@@ -34,7 +38,7 @@
 
 ## Java并发编程
 
-1. [volatile](https://github.com/hellowupeng/interview/blob/master/java/volatile.md)
+1. [volatile](https://github.com/hellowupeng/interview/blob/master/java/volatile.md)🍎
 2. [Synchronized](https://github.com/hellowupeng/interview/blob/master/java/Synchronized实现原理.md)
 3. [手写一个线程安全的单例模式](https://github.com/hellowupeng/interview/blob/master/java/手写一个线程安全的单例模式.md)
 4. [notifiy()是唤醒的哪一个线程?](https://github.com/hellowupeng/interview/blob/master/java/notifiy()是唤醒的那一个线程.md)
@@ -50,7 +54,7 @@
 14. [atomic与volatile的区别](https://github.com/hellowupeng/back-end-study/blob/master/java/atomic%E4%B8%8Evolatile%E7%9A%84%E5%8C%BA%E5%88%AB.md)🌲
 15. [Atomic包](https://github.com/hellowupeng/interview/blob/master/java/Atomic包？.md)
 16. 写一个JAVA死锁的例子
-17. 如何解决死锁?
+17. 如何解决死锁
 18. 互斥与死锁相关的
 19. SYNC和Lock锁机制
 20. 线程通信
@@ -70,8 +74,8 @@
 ## JVM
 
 1. [gc原理](https://github.com/hellowupeng/interview/blob/master/java/gc原理.md)
-2. [GC回收算法,及实现原理?](https://github.com/hellowupeng/back-end-study/blob/master/java/GC%E5%9B%9E%E6%94%B6%E7%AE%97%E6%B3%95%2C%E5%8F%8A%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86.md)
-3. in-jvm（必考）以及jmm缓存模型如何调优?
+2. [GC回收算法,及实现原理](https://github.com/hellowupeng/back-end-study/blob/master/java/GC%E5%9B%9E%E6%94%B6%E7%AE%97%E6%B3%95%2C%E5%8F%8A%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86.md)
+3. in-jvm（必考）以及jmm缓存模型如何调优
 4. JVM（内存模型、GC垃圾回收，包括分代，GC算法，收集器、类加载和双亲委派、JVM调优，内存泄漏和内存溢出）
 5. 内存模型
 6. GC
@@ -90,7 +94,7 @@
 9. [引擎对比（InnoDB，MyISAM）](https://github.com/hellowupeng/interview/blob/master/db/MySQL引擎对比（InnoDB，MyISAM）.md)
 10. 数据库的锁（行锁，表锁，页级锁，意向锁，读锁，写锁，悲观锁，乐观锁，以及加锁的select sql方式）
 11. 隔离级别，依次解决的问题（脏读、不可重复读、幻读）
-12. [事务的ACID](https://github.com/hellowupeng/interview/blob/master/db/事务的ACID.md)
+12. [事务的ACID](https://github.com/hellowupeng/interview/blob/master/db/事务的ACID.md)🍎
 13. 优化（explain，慢查询，show profile）
 14. 数据库的范式
 15. 分库分表，主从复制，读写分离。

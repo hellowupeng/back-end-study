@@ -204,7 +204,14 @@
 1. 微服务
 2. 高并发问题
 
-## 题目
+## 一些问题
 
-1. [史上最全阿里技术面试题目](https://www.toutiao.com/a6581717700844716552/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1537788762&app=news_article&utm_source=weixin&iid=44091158662&utm_medium=toutiao_ios&group_id=6581717700844716552)
-2. [Interviews](https://github.com/kdn251/interviews/blob/master/README-zh-cn.md)
+[史上最全阿里技术面试题目](https://www.toutiao.com/a6581717700844716552/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1537788762&app=news_article&utm_source=weixin&iid=44091158662&utm_medium=toutiao_ios&group_id=6581717700844716552)
+
+[Interviews](https://github.com/kdn251/interviews/blob/master/README-zh-cn.md)
+
+[四年努力，梦归阿里，和大家聊聊成长感悟](https://www.cnblogs.com/xrq730/p/9159586.html)
+
+[面试感悟----一名3年工作经验的程序员应该具备的技能](https://www.cnblogs.com/xrq730/p/5260294.html)
+
+[40个Java多线程问题总结](https://www.cnblogs.com/xrq730/p/5060921.html)

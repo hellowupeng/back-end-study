@@ -160,7 +160,7 @@
 
 ## 设计模式
 
-1. 单例有多少种写法? 有什么区别? 你常用哪一种单例，为什么用这种？
+1. [单例有多少种写法? 有什么区别? 你常用哪一种单例，为什么用这种？](https://github.com/hellowupeng/back-end-study/blob/master/design-pattern/%E5%8D%95%E4%BE%8B%E6%9C%89%E5%A4%9A%E5%B0%91%E7%A7%8D%E5%86%99%E6%B3%95%20%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%20%E4%BD%A0%E5%B8%B8%E7%94%A8%E5%93%AA%E4%B8%80%E7%A7%8D%E5%8D%95%E4%BE%8B%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%A8%E8%BF%99%E7%A7%8D%EF%BC%9F.md)🌲
 2. [设计模式（常用的，jdk中有的）](https://github.com/hellowupeng/back-end-study/blob/master/design-pattern/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%EF%BC%88%E5%B8%B8%E7%94%A8%E7%9A%84%EF%BC%8Cjdk%E4%B8%AD%E6%9C%89%E7%9A%84%EF%BC%89%EF%BC%9F.md)
 
 ## 服务器

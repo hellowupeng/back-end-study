@@ -34,7 +34,10 @@
 ### 其他
 
 1. [HashTable？](https://github.com/hellowupeng/interview/blob/master/java/HashTable.md)
-2. java各版本区别
+
+### 问题
+
+1. java各版本区别
 
 ## Java并发编程
 
@@ -166,14 +169,13 @@
 ## 服务器
 
 1. [项目中使用的单机服务器，如果将它部署成分布式服务器？](https://github.com/hellowupeng/back-end-study/blob/master/server/%E9%A1%B9%E7%9B%AE%E4%B8%AD%E4%BD%BF%E7%94%A8%E7%9A%84%E5%8D%95%E6%9C%BA%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%8C%E5%A6%82%E6%9E%9C%E5%B0%86%E5%AE%83%E9%83%A8%E7%BD%B2%E6%88%90%E5%88%86%E5%B8%83%E5%BC%8F%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%9F.md)
-2. [负载均衡](https://github.com/hellowupeng/back-end-study/blob/master/server/%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1.md)
+2. [负载均衡](https://github.com/hellowupeng/back-end-study/blob/master/server/%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1.md)🌲
 3. 限流
 
 ## Linux
 
-1. Linux内核select poll epoll
-2. [linux常用命令（问的时候都会给具体某一个场景）](https://github.com/hellowupeng/back-end-study/blob/master/linux/linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%EF%BC%88%E9%97%AE%E7%9A%84%E6%97%B6%E5%80%99%E9%83%BD%E4%BC%9A%E7%BB%99%E5%85%B7%E4%BD%93%E6%9F%90%E4%B8%80%E4%B8%AA%E5%9C%BA%E6%99%AF%EF%BC%89.md)
-3. Linux内核相关（select、poll、epoll）
+1. [linux常用命令（问的时候都会给具体某一个场景）](https://github.com/hellowupeng/back-end-study/blob/master/linux/linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%EF%BC%88%E9%97%AE%E7%9A%84%E6%97%B6%E5%80%99%E9%83%BD%E4%BC%9A%E7%BB%99%E5%85%B7%E4%BD%93%E6%9F%90%E4%B8%80%E4%B8%AA%E5%9C%BA%E6%99%AF%EF%BC%89.md)
+2. Linux内核相关（select、poll、epoll）
 
 ## 计算机操作系统
 
@@ -204,7 +206,7 @@
 1. 微服务
 2. 高并发问题
 
-## 一些问题
+## 相关文章
 
 [史上最全阿里技术面试题目](https://www.toutiao.com/a6581717700844716552/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1537788762&app=news_article&utm_source=weixin&iid=44091158662&utm_medium=toutiao_ios&group_id=6581717700844716552)
 

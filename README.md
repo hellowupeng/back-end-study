@@ -1,4 +1,4 @@
-# Back-end Study
+# back-end study
 
 > 🌲：学习记录
 >
@@ -166,7 +166,7 @@
 ## 服务器
 
 1. [项目中使用的单机服务器，如果将它部署成分布式服务器？](https://github.com/hellowupeng/back-end-study/blob/master/server/%E9%A1%B9%E7%9B%AE%E4%B8%AD%E4%BD%BF%E7%94%A8%E7%9A%84%E5%8D%95%E6%9C%BA%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%8C%E5%A6%82%E6%9E%9C%E5%B0%86%E5%AE%83%E9%83%A8%E7%BD%B2%E6%88%90%E5%88%86%E5%B8%83%E5%BC%8F%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%9F.md)
-2. 了解基于dns轮询的负载均衡，熟练配置web服务器实现负载均衡，程序级能综合使用基于hash或取模等手段实现软负载。
+2. 负载均衡
 3. 限流
 
 ## Linux
@@ -175,7 +175,7 @@
 2. [linux常用命令（问的时候都会给具体某一个场景）](https://github.com/hellowupeng/back-end-study/blob/master/linux/linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%EF%BC%88%E9%97%AE%E7%9A%84%E6%97%B6%E5%80%99%E9%83%BD%E4%BC%9A%E7%BB%99%E5%85%B7%E4%BD%93%E6%9F%90%E4%B8%80%E4%B8%AA%E5%9C%BA%E6%99%AF%EF%BC%89.md)
 3. Linux内核相关（select、poll、epoll）
 
-## 操作系统
+## 计算机操作系统
 
 1. [操作系统：进程通信IPC（几种方式），与线程区别](https://github.com/hellowupeng/back-end-study/blob/master/operating-system/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%EF%BC%9A%E8%BF%9B%E7%A8%8B%E9%80%9A%E4%BF%A1IPC%EF%BC%88%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F%EF%BC%89%EF%BC%8C%E4%B8%8E%E7%BA%BF%E7%A8%8B%E5%8C%BA%E5%88%AB.md)
 2. OS的几种策略（页面置换，进程调度等，每个里面有几种算法）

@@ -77,6 +77,7 @@
 - [信号量Semaphore](https://github.com/hellowupeng/interview/blob/master/java/信号量Semaphore？.md)
 - [死锁](https://github.com/hellowupeng/back-end-study/blob/master/java/%E6%AD%BB%E9%94%81%EF%BC%9F.md)
 - [volatile和synchronized的区别](https://github.com/hellowupeng/back-end-study/blob/master/java/volatile%E5%92%8Csynchronized%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+- [40个Java多线程问题总结](https://www.cnblogs.com/xrq730/p/5060921.html)
 
 ## JVM
 
@@ -205,7 +206,7 @@
 - 自定义表格的实现?
 - 动态表单设计?
 - 地图组件?
-- 场景式的问题:秒杀,能列出常见的排队、验证码、库存扣减方式对系统高并发的影响?
+- 秒杀系统设计
 
 ## 单元测试
 
@@ -230,5 +231,3 @@
 [四年努力，梦归阿里，和大家聊聊成长感悟](https://www.cnblogs.com/xrq730/p/9159586.html)
 
 [面试感悟----一名3年工作经验的程序员应该具备的技能](https://www.cnblogs.com/xrq730/p/5260294.html)
-
-[40个Java多线程问题总结](https://www.cnblogs.com/xrq730/p/5060921.html)
